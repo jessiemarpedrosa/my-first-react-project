@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-//import Users from './components/Users';
 import BlogPosts from './components/BlogPosts';
 import axios from 'axios';
 //import ReactPaginate from 'react-paginate';
