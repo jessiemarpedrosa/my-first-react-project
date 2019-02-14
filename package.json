@@ -5,7 +5,7 @@
   "engines": {
     "node": "10.5.1",
     "npm": "6.4.1"
-  }
+  },
   "homepage": "https://jessiemarpedrosa.github.io/my-first-react-project/",
   "devDependencies": {
     "gh-pages": "^2.0.1",
